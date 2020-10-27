@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![banner](banner3.png)
 
 <!--
