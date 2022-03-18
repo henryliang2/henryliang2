@@ -1,4 +1,3 @@
-![banner](banner3.png)
 
 <!--
 **henryliang2/henryliang2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +14,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github.com/henryliang2/github-stats/blob/master/generated/overview.svg)
-
-![](https://github.com/henryliang2/github-stats/blob/master/generated/languages.svg)
